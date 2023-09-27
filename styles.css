@@ -1,0 +1,29 @@
+/* STYLES */
+
+body {
+    background: rgb(6, 6, 80);
+    color:rgb(240, 255, 255) ;
+    font-family: Tahoma;
+}
+
+main {
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: rgb(255, 127, 249)  ;
+    font-family:'Gill Sans';
+    font-size: 72px;
+     
+}
+
+h3,h2{
+    color: rgb(102, 205, 50) ;
+}
+
+h4,em {
+    color: rgb(246, 248, 197);
+    font-style: italic;
+}
